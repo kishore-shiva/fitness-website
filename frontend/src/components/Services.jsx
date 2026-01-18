@@ -38,7 +38,7 @@ const services = [
     title: "Flexibility & Rehabilitation",
     description:
       "Mobility work, stretching routines, and rehabilitation exercises to improve flexibility, prevent injuries, and recover faster.",
-    icon: Stretch,
+    icon: Activity,
     image:
       "https://images.unsplash.com/photo-1758599880425-7862af0a4b50?crop=entropy&cs=srgb&fm=jpg&ixid=M3w3NDQ2NDF8MHwxfHNlYXJjaHwxfHxtYW4lMjBzdHJldGNoaW5nJTIweW9nYSUyMGd5bXxlbnwwfHx8fDE3Njg2OTU1Nzh8MA&ixlib=rb-4.1.0&q=85",
     span: "md:col-span-7",
