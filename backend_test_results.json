@@ -1,0 +1,61 @@
+{
+  "total_tests": 9,
+  "passed_tests": 8,
+  "success_rate": 88.88888888888889,
+  "test_details": [
+    {
+      "test_name": "API Root Endpoint",
+      "success": true,
+      "details": "Status: 200, Message: Prem Rishi Fitness API",
+      "timestamp": "2026-01-18T00:28:06.530868"
+    },
+    {
+      "test_name": "Contact Form Submission",
+      "success": true,
+      "details": "Status: 200, Submission ID: 6c9538ff-0eef-4373-8344-29c826f69f89",
+      "timestamp": "2026-01-18T00:28:06.628147"
+    },
+    {
+      "test_name": "Contact Form Validation",
+      "success": true,
+      "details": "Correctly rejected invalid data with status: 422",
+      "timestamp": "2026-01-18T00:28:06.681405"
+    },
+    {
+      "test_name": "Service Option: weight-loss",
+      "success": true,
+      "details": "Service 'weight-loss' accepted successfully",
+      "timestamp": "2026-01-18T00:28:06.735476"
+    },
+    {
+      "test_name": "Service Option: strength-training",
+      "success": true,
+      "details": "Service 'strength-training' accepted successfully",
+      "timestamp": "2026-01-18T00:28:06.780320"
+    },
+    {
+      "test_name": "Service Option: flexibility-rehab",
+      "success": true,
+      "details": "Service 'flexibility-rehab' accepted successfully",
+      "timestamp": "2026-01-18T00:28:06.816803"
+    },
+    {
+      "test_name": "Service Option: nutrition-coaching",
+      "success": true,
+      "details": "Service 'nutrition-coaching' accepted successfully",
+      "timestamp": "2026-01-18T00:28:06.868506"
+    },
+    {
+      "test_name": "Submissions Endpoint",
+      "success": true,
+      "details": "Status: 200, Found 5 submissions",
+      "timestamp": "2026-01-18T00:28:06.909656"
+    },
+    {
+      "test_name": "CORS Headers",
+      "success": false,
+      "details": "No CORS headers found",
+      "timestamp": "2026-01-18T00:28:06.944718"
+    }
+  ]
+}
