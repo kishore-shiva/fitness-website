@@ -1,5 +1,5 @@
 import { motion } from "framer-motion";
-import { Flame, Dumbbell, Salad, Stretch } from "lucide-react";
+import { Flame, Dumbbell, Salad, Activity } from "lucide-react";
 import { Button } from "./ui/button";
 
 const services = [
