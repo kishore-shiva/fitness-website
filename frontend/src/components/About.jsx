@@ -34,7 +34,7 @@ export const About = () => {
           >
             <div className="relative aspect-[4/5] rounded-xl overflow-hidden">
               <img
-                src="https://images.unsplash.com/photo-1655556870982-0cd4d5854e05?crop=entropy&cs=srgb&fm=jpg&ixid=M3w4NTYxOTB8MHwxfHNlYXJjaHwxfHxmaXRuZXNzJTIwdHJhaW5lciUyMHBvcnRyYWl0JTIwbWFuJTIwY29uZmlkZW50fGVufDB8fHx8MTc2ODY5NTU4MHww&ixlib=rb-4.1.0&q=85"
+                src="/aboutme.jpg"
                 alt="Prem Rishi - Personal Trainer"
                 className="w-full h-full object-cover"
               />

@@ -16,7 +16,7 @@ export const Footer = () => {
           {/* Social Links */}
           <div className="flex items-center gap-4">
             <a
-              href="https://instagram.com/premrishi.fitness"
+              href="https://www.instagram.com/rishii._.12"
               target="_blank"
               rel="noopener noreferrer"
               data-testid="footer-instagram"
@@ -25,7 +25,7 @@ export const Footer = () => {
               <Instagram className="w-5 h-5" />
             </a>
             <a
-              href="mailto:contact@premrishi.fitness"
+              href="mailto:rishimr12@gmail.com"
               data-testid="footer-email"
               className="w-10 h-10 rounded-full bg-white/5 flex items-center justify-center text-zinc-400 hover:text-primary hover:bg-primary/10 transition-all duration-300"
             >
